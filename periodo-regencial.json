@@ -1,0 +1,9 @@
+{
+  "titulo": "Período Regencial",
+  "materia": "História",
+  "descricao": "Resumo do período regencial (1831–1840).",
+  "topicos": [
+    { "titulo": "Avanço Liberal", "conteudo": "Medidas de descentralização política, como o Código de Processo Criminal e o Ato Adicional de 1834." },
+    { "titulo": "Regresso Conservador", "conteudo": ["Lei de Interpretação do Ato Adicional", "Fortalecimento do poder central"] }
+  ]
+}

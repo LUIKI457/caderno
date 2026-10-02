@@ -1,0 +1,6 @@
+{
+  "nome": "África",
+  "resumo": "Aspectos gerais do continente africano.",
+  "regioes": { "norte": "Árabe, deserto do Saara", "subsaariana": "Maior diversidade étnica" },
+  "area_km2": 30370000
+}

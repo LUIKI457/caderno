@@ -1,0 +1,13 @@
+Fontes de Energia
+
+Energia pode ser renovável ou não renovável.
+
+Renováveis
+- Solar
+- Eólica
+- Hidráulica
+
+Não renováveis
+- Petróleo
+- Carvão mineral
+- Gás natural

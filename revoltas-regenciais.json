@@ -1,0 +1,9 @@
+{
+  "title": "Revoltas Regenciais",
+  "description": "Principais revoltas do período.",
+  "sections": [
+    { "title": "Cabanagem", "text": "Pará, 1835–1840. Revolta popular." },
+    { "title": "Farroupilha", "text": "Rio Grande do Sul, 1835–1845." },
+    { "title": "Sabinada", "text": "Bahia, 1837–1838." }
+  ]
+}

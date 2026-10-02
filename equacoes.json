@@ -1,0 +1,8 @@
+{
+  "titulo": "Equações",
+  "descricao": "Revisão rápida.",
+  "topicos": [
+    { "titulo": "1º grau", "conteudo": "ax + b = 0  →  x = -b/a" },
+    { "titulo": "2º grau", "conteudo": "Δ = b² − 4ac\nx = (−b ± √Δ) / 2a" }
+  ]
+}

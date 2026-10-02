@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>Caderno de Estudos</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="app">
+  <aside id="sidebar" aria-label="Matérias">
+    <div class="brand">Caderno</div>
+    <button class="nav" id="homeBtn">Início</button>
+    <div class="side-title">Matérias</div>
+    <nav id="subjects"></nav>
+  </aside>
+  <div id="scrim"></div>
+  <div class="col">
+    <header class="topbar">
+      <button id="menuBtn" class="icon" aria-label="Abrir menu">☰</button>
+      <input id="search" type="search" placeholder="Buscar em nomes, títulos e textos" autocomplete="off" aria-label="Buscar">
+      <button id="refreshBtn" class="btn" title="Reler o repositório">↻ <span>Atualizar</span></button>
+    </header>
+    <div id="status"></div>
+    <main id="view"></main>
+  </div>
+</div>
+<script src="app.js"></script>
+</body>
+</html>
